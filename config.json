@@ -1,0 +1,32 @@
+{
+    "BOT_TOKEN" : "YOUR TOKEN HERE",
+    "DEV" : "Raid#9074",
+    "BOT_VERSION" : 1.1,
+
+
+    "clientID" : "BOT ID",
+    "guildID": "GUILD ID",
+
+    "createChannels" : {
+
+        "basicPublic" : {
+            "1022478567977795654" : {
+                "channelName" : "🔹 | Studio",
+                "categoryId" : "1022478012601618502",
+                "isNsfw" : false
+            },
+			"1022478586004906015" : {
+                "channelName" : "🔸 | Vocale",
+                "categoryId" : "1022478061331038299",
+                "isNsfw" : false
+            }
+        },
+
+        "private" : {
+
+        }
+
+    }
+
+    
+}
